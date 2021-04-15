@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  restaurantGuide
+//  guide
 //
 //  Created by Laptop on 2021-04-14.
 //
